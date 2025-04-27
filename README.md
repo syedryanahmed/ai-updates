@@ -1,10 +1,8 @@
-# AI Tools Reels
+# AI Tools from my popular reels
 
-Here are the links to my daily AI tool reels:
+Here are the links to AI Tools from my popular reels:
 
-- [AI Tool 1](https://link-to-reel-1)
-- [AI Tool 2](https://link-to-reel-2)
-- [AI Tool 3](https://link-to-reel-3)
-- [AI Tool 4](https://link-to-reel-4)
-
-(Add more links as you go!)
+- [AI Tool 1](https://github.com/AIAnytime/Mistral-OCR-App)
+- [AI Tool 2](https://github.com/microsoft/BitNet)
+- [AI Tool 3](https://github.com/vanna-ai/vanna)
+- [AI Tool 4](https://github.com/mannaandpoem/OpenManus)
